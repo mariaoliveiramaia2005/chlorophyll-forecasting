@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pkl
+*.xlsx
+*.csv
+training_code/development/resultados*/
+.DS_Store
